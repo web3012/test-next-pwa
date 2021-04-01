@@ -1,0 +1,12 @@
+{
+    "start_url": "./",
+    "name": "PWA",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
