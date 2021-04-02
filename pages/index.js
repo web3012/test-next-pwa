@@ -4,7 +4,7 @@ const pageMain = () => {
     console.log(`> test `)
 
     return (
-        <div>page main !</div>
+        <div>Page main ! v2</div>
     )
 }
 export default pageMain
